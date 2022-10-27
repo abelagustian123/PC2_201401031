@@ -10,5 +10,6 @@
 > Buatlah web seperti di modul2 dan ubahlah tampilannya.
 ![2022-10-16](https://user-images.githubusercontent.com/73374793/196133255-695d3cc3-5c7b-4caa-bd6f-690c76220df1.png)
 
-#### Tugas 2
+#### Tugas3
 > Buatlah web seperti di modul3 dengan tambahan flip gabungan dan mirror y dan ubahlah tampilannya.
+![PC2_Tugas3_201401031](https://user-images.githubusercontent.com/73374793/198301604-92b7e1e4-fc48-434a-aecf-8e4dcaa17311.PNG)
