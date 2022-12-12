@@ -13,3 +13,8 @@
 #### Tugas3
 > Buatlah web seperti di modul3 dengan tambahan flip gabungan dan mirror y dan ubahlah tampilannya.
 ![PC2_Tugas3_201401031](https://user-images.githubusercontent.com/73374793/198301604-92b7e1e4-fc48-434a-aecf-8e4dcaa17311.PNG)
+
+
+#### UAS
+> UAS
+![Screenshot (53)](https://user-images.githubusercontent.com/73374793/206991502-f145e67a-5b8c-4cbb-a6cd-fafd856cc095.png)
